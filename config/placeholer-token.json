@@ -1,0 +1,6 @@
+{
+    "token": "TOKEN GOES HERE",
+    "notes" : {
+        "Ensure that you rename this file to token.json"
+    }
+}
